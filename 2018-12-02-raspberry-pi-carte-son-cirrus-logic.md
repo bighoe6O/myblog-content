@@ -2,7 +2,7 @@
 layout: post
 title:  "Raspberry PI: carte son Cirrus Logic"
 date:   2018-12-02 12:23:22 +0100
-category: Pi
+category: Divers
 tags: [Pi]
 ---
 
