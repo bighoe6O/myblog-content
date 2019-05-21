@@ -2,7 +2,7 @@
 layout: post
 title:  webradios
 date:   2018-12-07 09:57:37 +0100
-category: [Divers]
+category: Divers
 tags: [Musique, MPD]
 ---
 
