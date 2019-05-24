@@ -2,7 +2,8 @@
 layout: post
 title:  liseuse-kobo
 date:   2018-09-30 13:39:12 +0200
-category: Livres
+category: Divers
+Tags: Livres
 ---
 
 [Calibre](https://calibre-ebook.com/)
