@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Installation de jekyll admin
-category: Jekyll
-tags: [Jekyll]
+category: Dev
+tags: Jekyll
 ---
 
 https://github.com/jekyll/jekyll-admin

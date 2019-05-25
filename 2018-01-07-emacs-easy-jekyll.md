@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Emacs: easy-jekyll"
-category: Jekyll
-tags: [Emacs, Jekyll, Dev]
+category: Dev
+tags: Emacs, Jekyll
 Date:   2018-01-07 14:43:31 +0100
 ---
 

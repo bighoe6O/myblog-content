@@ -3,7 +3,7 @@ layout: post
 title:  ruby-rmagick
 date:   2018-10-10 19:46:46 +0200
 category: Dev
-tags: [Ruby, Dev, Jekyll, Images]
+tags: Ruby, Jekyll, Images, Outils
 ---
 
 <https://rmagick.github.io/usage.html>

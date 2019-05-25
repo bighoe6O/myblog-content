@@ -2,8 +2,8 @@
 layout: post
 title:  python-curses
 date:   2018-10-27 12:35:52 +0200
-category: [Dev]
-tags: [Python, Curses]
+category: Dev
+tags: Python, Curses
 ---
 
 <https://docs.python.org/3/howto/curses.html>

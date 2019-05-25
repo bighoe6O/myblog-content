@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  emacs-for-python
-category: Emacs
-tags: [Dev, Outils, Emacs]
+category: Dev
+tags: Dev, Outils, Emacs
 date:   2018-02-06 18:28:52 +0100
 ---
 

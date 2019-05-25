@@ -2,8 +2,8 @@
 layout: post
 title:  "Installation de Jekyll"
 date:   2017-12-20 00:17:13 +0100
-category: Jekyll
-tags: [Jekyll, Outils]
+category: Dev
+tags: Jekyll
 ---
 
 # Options du fichier de configuration

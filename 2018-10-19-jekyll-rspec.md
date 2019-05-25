@@ -2,8 +2,8 @@
 layout: post
 title:  Jekyll TDD
 date:   2018-10-19 16:34:17 +0200
-category: Jekyll
-tags: [Dev, Jekyll, TDD]
+category: Dev
+tags: Jekyll, TDD
 ---
 
 ## Rspec

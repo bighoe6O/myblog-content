@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Catégories dans Jekyll
-category: Jekyll
-tags: [Jekyll, Outils]
+category: Dev
+tags: Jekyll, Outils
 date:   2018-01-07 18:20:46 +0100
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title:  developper-un-plugin-jekyll
 date:   2018-10-07 08:03:02 +0200
-category: Jekyll
-tags: [Jekyll]
+category: Dev
+tags: Jekyll
 ---
 
 <https://tuananh.org/2014/08/04/writing-your-first-jekyll-plugin/>

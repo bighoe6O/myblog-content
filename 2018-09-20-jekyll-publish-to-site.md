@@ -2,8 +2,8 @@
 layout: post
 title:  "Jekyll: Publish to site"
 date:   2018-09-20 14:33:42 +0200
-category: Jekyll
-tags: [Jekyll, Dev, Git]
+category: Dev
+tags: Jekyll, Git
 ---
 
 <https://www.inmotionhosting.com/support/website/jekyll/how-to-publish-a-jekyll-site-with-git>
