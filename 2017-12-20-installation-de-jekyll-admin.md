@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Installation de jekyll admin
+status: published
 category: Dev
 tags: Jekyll
 ---
