@@ -1,20 +1,10 @@
----
-layout: page
-title: RepRap
----
+Date: 2019-06-06 11:11
+Title: RepRap
+Status: published
+Slug: RepRap/README
+Category: RepRap
+Tags: RepRap
 
-[TOC]
-
-# RepRap
-
-* [[Foldarap]]
-* [[Printrun]]
-* [[Prusa3]]
-* [[configurations]]
-* [[objets]]
-* [[outils]]
-* [[scripts]]
-* [[strapdown]]
 
 # [RepRap Mendel](http://reprap.org/wiki/Prusa_Mendel_%28iteration_2%29)
 
@@ -23,13 +13,14 @@ title: RepRap
 
 Montage du hot end
 
-http://www.youtube.com/watch?v=i7-VlQREPbo
+<http://www.youtube.com/watch?v=i7-VlQREPbo>
 
   [1]: http://reprap.org/wiki/Main_Page
   [2]: http://www.youtube.com/watch?v=EujOBjxyLWs
+
 ## Impression des pièces
 
-http://reprap.org/wiki/Prusa_Mendel_%28iteration_2%29#Printed_Parts
+<http://reprap.org/wiki/Prusa_Mendel_%28iteration_2%29#Printed_Parts>
 
 [Dépôt GitHub](https://github.com/prusajr/PrusaMendel/)
 
@@ -43,19 +34,7 @@ Modele : Heatbed MK2
 
 Modele : J-Head
 
-## Firmware
-
-### Sprinter
-
-http://forum.arduino.cc/index.php?topic=92364.0
-
-http://reprap.org/wiki/RepRapLinuxSoftware
-
-### Marlin
-
-http://reprap.org/wiki/Marlin
-
-TODO: ajouter la configuration
+[Firmware](/reprap/firmware)
 
 ## Calibrage
 
@@ -63,21 +42,13 @@ TODO: ajouter la configuration
 
 ## Logiciels
 
-* [[Logiciels 3D]]
+* [Logiciels 3D](/reprap/Logiciels_3D)
 
   [1]: http://www.thingiverse.com/thing:4249/#files
-### Art of Illusion
-
-Logiciel CAD utilisé pour la realisation des pieces
-
-* [Export STL](http://forums.reprap.org/read.php?12,10052)
-* 
-![2500_2500_Reprap_Prusa_ramps_diagram.jpeg](2500_2500_Reprap_Prusa_ramps_diagram.jpeg)
-* [CSG_Evaluator](http://reprap.org/wiki/Builders/Metalab/AoI_CSG_Evaluator)
 
 ### Skeinforge
 
-* http://fabmetheus.crsndoo.com/
+<https://reprap.org/wiki/Skeinforge>
 
         sudo apt-add-repository ppa:richi-paraeasy/ppa
         sudo apt-get update
@@ -86,8 +57,3 @@ Logiciel CAD utilisé pour la realisation des pieces
 Répertoire .skeinforg/profiles/ du ks53 ubuntu
 
 	skeinforge-profiles/
-
-### Blender
-
-[Exportation de fichier stl](http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDQQFjAA&url=http%3A%2F%2Fsupport.ponoko.com%2Fentries%2F21531613-How-to-export-a-STL-design-file-using-Blender-2-6-&ei=FfbPUaqHDo_VsgbEjIGYAQ&usg=AFQjCNFCXZWBJFAMVZMzzFvHp4YdoMiJRg&sig2=st3E-IgUgZrY_hEkfyDN5w&bvm=bv.48572450,d.Yms)
-

@@ -4,9 +4,17 @@ Title: FoldaRap
 Slug: reprap/FoldaRap
 Tags: RepRap
 
+
+
+![FoldaRap.jpg]({static}FoldaRap.jpg)
+
+<https://reprap.org/wiki/FoldaRap>
+
 # Profilés
 
 <http://forums.reprap.org/read.php?110,272205>
+
+[Profile-20-I-Type-rainure-5](https://www.motedis.fr/shop/Profile-a-rainures/Profile-20-I-Type-rainure-5/Profile-aluminium-20x20-I-Type-rainure-5::999991076.html)
 
 # Structure de base
 * x4 profilé 200mm

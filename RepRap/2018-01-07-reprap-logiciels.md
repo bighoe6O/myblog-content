@@ -1,10 +1,10 @@
----
 layout: post
 title:  Logiciels pour la Reprap
-category: Reprap
-tags: [Reprap, Logiciels]
-date:   2018-01-07 16:58:11 +0100
----
+Slug: /reprap/logiciels
+Category: Reprap
+Tags: Reprap, Logiciels
+Date:   2018-01-07 16:58:11 +0100
+
 ## Logiciels
 
 ![2500_2500_Reprap_Prusa_ramps_diagram.jpeg](2500_2500_Reprap_Prusa_ramps_diagram.jpeg)

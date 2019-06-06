@@ -4,13 +4,7 @@ Title: Logiciels 3D
 Slug: reprap/Logiciels_3D
 Tags: RepRap, Logiciels
 
-# Logiciels CAD/Slicing
-
-[[README]]
-
-[TOC]
-  
-## Art of Illusion
+# Art of Illusion
 
 Logiciel CAD utilisé pour la realisation des pieces
 
@@ -21,16 +15,20 @@ Logiciel CAD utilisé pour la realisation des pieces
 
 Note: Obsolète, j'utilise OpenSCAD
 
-## Blender
+# Blender
 
 [Exportation de fichier stl](http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDQQFjAA&url=http%3A%2F%2Fsupport.ponoko.com%2Fentries%2F21531613-How-to-export-a-STL-design-file-using-Blender-2-6-&ei=FfbPUaqHDo_VsgbEjIGYAQ&usg=AFQjCNFCXZWBJFAMVZMzzFvHp4YdoMiJRg&sig2=st3E-IgUgZrY_hEkfyDN5w&bvm=bv.48572450,d.Yms)
 
   [1]: http://www.thingiverse.com/thing:4249/#files
   [2]: http://www.thingiverse.com/thing:263620/#files
 
-## OpenSCAD
+# OpenSCAD
 
 * [OpenSCAD](http://www.openscad.org/)
 * [Librairie MCAD](https://github.com/openscad/MCAD)
 
-TODO
+## Installation
+
+    sudo apt-get install openscad
+
+<http://www.openscad.org/downloads.html>
