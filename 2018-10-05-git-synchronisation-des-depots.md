@@ -1,12 +1,11 @@
----
-layout: post
-title:  git-synchronisation-des-depots
-date:   2018-10-05 23:05:20 +0200
-category: Dev
-tags: [Git]
----
+Title:  Synchronisation des depots Git
+Date:   2018-10-05 23:05:20 +0200
+Category: Dev
+tags: Git
 
-~git/bin/git-push-pi0.sh
+
+    ~git/bin/git-push-pi0.sh
+
 
 ```bash
 #!/bin/bash
