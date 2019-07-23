@@ -2,7 +2,7 @@
 layout: post
 title:  Linkchecker
 category: Dev
-tags: [Outils, Web, Dev]
+tags: Outils, Web, Dev
 date:   2018-01-08 10:38:08 +0100
 ---
 

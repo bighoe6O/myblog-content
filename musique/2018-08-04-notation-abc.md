@@ -3,7 +3,7 @@ layout: post
 title:  Notation ABC
 date:   2018-08-04 11:38:32 +0200
 category: MAO
-tags: [Musique, MAO]
+tags: Musique, MAO
 ---
 
 [Documentation](http://abcnotation.com/wiki/abc:standard:v2.2)

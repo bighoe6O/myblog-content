@@ -2,7 +2,7 @@
 layout: post
 title:  Image Magick
 category: Logiciels
-tags: [Outils, Images]
+tags: Outils, Images
 date:   2018-01-22 09:56:34 +0100
 ---
 

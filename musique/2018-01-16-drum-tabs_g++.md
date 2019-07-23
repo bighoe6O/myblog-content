@@ -3,7 +3,7 @@ layout: post
 title:  drum-tabs_g++
 date:   2018-01-16 23:36:03 +0100
 category: Dev
-tags: [MAO, Dev]
+tags: MAO, Dev
 ---
 
 ```
