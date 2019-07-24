@@ -1,7 +1,7 @@
 Title:  emacs-for-python
 Date:   2018-02-06 18:28:52 +0100
 Category: Dev
-Tags: Dev, Outils, Emacs
+Tags: Emacs, Editeur
 
 
 <https://www.emacswiki.org/emacs/PythonProgrammingInEmacs>

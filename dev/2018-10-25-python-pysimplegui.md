@@ -1,7 +1,7 @@
 title:  python-pysimplegui
 date:   2018-10-25 05:49:54 +0200
 category: Dev
-Tags: Python
+Tags: Python, UI
 
 
 <https://github.com/MikeTheWatchGuy/PySimpleGUI>

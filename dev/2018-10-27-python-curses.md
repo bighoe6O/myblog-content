@@ -1,7 +1,7 @@
 Title:  python-curses
 Date:   2018-10-27 12:35:52 +0200
 Category: Dev
-Tags: Python, Curses
+Tags: Python, Curses, UI
 
 
 <https://docs.python.org/3/howto/curses.html>

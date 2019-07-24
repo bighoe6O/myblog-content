@@ -1,7 +1,7 @@
 Title:  ruby-rmagick
 Date:   2018-10-10 19:46:46 +0200
 Category: Dev
-Tags: Ruby, Jekyll, Images, Outils
+Tags: Ruby, Images
 
 
 <https://rmagick.github.io/usage.html>

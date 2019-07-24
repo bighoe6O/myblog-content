@@ -1,7 +1,7 @@
 Title:  git-deplacement-repertoire-vers-submodule
 Date:   2018-09-11 21:05:46 +0200
 Category: Dev
-Tags: Dev, Git
+Tags: Git
 
 
 Solution utilisée:

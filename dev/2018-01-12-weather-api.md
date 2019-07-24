@@ -1,6 +1,6 @@
 Title:  weather-api
 Category: Dev
-Tags: Dev
+Tags: API
 Date:   2018-01-12 10:56:45 +0100
 
 
