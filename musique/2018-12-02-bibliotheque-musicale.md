@@ -1,10 +1,8 @@
----
-layout: post
-title:  Bibliotheque musicale
-date:   2018-12-02 23:00:45 +0100
-category: Musique
-tags: [Musique, MPD]
----
+Title:  Bibliotheque musicale
+Date:   2018-12-02 23:00:45 +0100
+Category: Musique
+Tags: [Musique, MPD]
+
 
 ## Suppression des doublons de la bibliothèque
 
