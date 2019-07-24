@@ -2,7 +2,7 @@ Date: 2019-06-06 09:21
 Status: published
 Title: FoldaRap
 Slug: reprap/FoldaRap
-Tags: RepRap
+Tags: RepRap, FoldaRap
 
 
 
