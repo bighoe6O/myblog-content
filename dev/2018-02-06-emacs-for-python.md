@@ -1,10 +1,8 @@
----
-layout: post
-title:  emacs-for-python
-category: Dev
-tags: Dev, Outils, Emacs
-date:   2018-02-06 18:28:52 +0100
----
+Title:  emacs-for-python
+Date:   2018-02-06 18:28:52 +0100
+Category: Dev
+Tags: Dev, Outils, Emacs
+
 
 <https://www.emacswiki.org/emacs/PythonProgrammingInEmacs>
 

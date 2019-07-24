@@ -1,10 +1,8 @@
----
-layout: post
-title:  Synthétiseurs
-date:   2018-09-11 08:57:45 +0200
-category: MAO
-tags: [Musique, MAO]
----
+Title:  Synthétiseurs
+Date:   2018-09-11 08:57:45 +0200
+Category: MAO
+Tags: Instruments
+
 
 [Jean-Michel Jarre](https://www.youtube.com/watch?v=ctOhwRGdVvo)
 

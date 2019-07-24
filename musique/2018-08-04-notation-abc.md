@@ -1,10 +1,8 @@
----
-layout: post
-title:  Notation ABC
-date:   2018-08-04 11:38:32 +0200
-category: MAO
-tags: Musique, MAO
----
+Title:  Notation ABC
+Date:   2018-08-04 11:38:32 +0200
+Category: MAO
+Tags: Musique, MAO, ABC
+
 
 [Documentation](http://abcnotation.com/wiki/abc:standard:v2.2)
 

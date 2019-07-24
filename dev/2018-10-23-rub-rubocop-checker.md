@@ -1,10 +1,8 @@
----
-layout: post
-title:  rub-rubocop-checker
-date:   2018-10-23 09:36:31 +0200
-category: Dev
-tags: Ruby, Jekyll
----
+Title:  rub-rubocop-checker
+Date:   2018-10-23 09:36:31 +0200
+Category: Dev
+Tags: Ruby, Jekyll
+
 
 [GitHub](https://github.com/rubocop-hq/rubocop/blob/master/config/default.yml)
 

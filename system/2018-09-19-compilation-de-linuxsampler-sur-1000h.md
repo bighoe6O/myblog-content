@@ -1,10 +1,8 @@
----
-layout: post
-title:  Compilation de Linuxsampler sur Asus 1000H
-date:   2018-09-19 19:43:12 +0200
-category: MAO
-tags: [MAO, Linux]
----
+Title:  Compilation de Linuxsampler sur Asus 1000H
+Date:   2018-09-19 19:43:12 +0200
+Category: MAO
+Tags: MAO, Linux
+
 
 <https://linuxsampler.org/debian.html>
 

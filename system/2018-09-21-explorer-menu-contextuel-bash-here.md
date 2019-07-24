@@ -1,10 +1,8 @@
----
-layout: post
-title:  explorer-menu-contextuel-bash-here
-date:   2018-09-21 06:41:36 +0200
-category: Système
-tags: [Système, Windows]
----
+title:  "Explorer: Menu Contextuel bash-here"
+Date:   2018-09-21 06:41:36 +0200
+Category: Système
+Tags: Système, Windows
+
 
 ```
 Windows Registry Editor Version 5.00

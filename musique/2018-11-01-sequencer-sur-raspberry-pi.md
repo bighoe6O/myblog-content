@@ -1,10 +1,8 @@
----
-layout: post
-title:  sequencer-sur-raspberry-pi
-date:   2018-11-01 07:07:35 +0100
-category: MAO
-tags: [Pi, Midi]
----
+Title:  sequencer-sur-raspberry-pi
+Date:   2018-11-01 07:07:35 +0100
+Category: MAO
+Tags: Pi, Midi
+
 
 <http://www.midish.org/>
 

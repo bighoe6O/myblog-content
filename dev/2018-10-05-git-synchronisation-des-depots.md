@@ -1,7 +1,7 @@
 Title:  Synchronisation des depots Git
 Date:   2018-10-05 23:05:20 +0200
 Category: Dev
-tags: Git
+Tags: Git
 
 
     ~git/bin/git-push-pi0.sh

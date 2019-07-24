@@ -1,10 +1,8 @@
----
-layout: post
-title:  weather-api
-category: Dev
-tags: Dev
-date:   2018-01-12 10:56:45 +0100
----
+Title:  weather-api
+Category: Dev
+Tags: Dev
+Date:   2018-01-12 10:56:45 +0100
+
 
 <http://simpleweatherjs.com/>
 

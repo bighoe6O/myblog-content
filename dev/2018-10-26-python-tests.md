@@ -1,10 +1,8 @@
----
-layout: post
-title:  python-tests
-date:   2018-10-26 10:54:37 +0200
-category: Dev
-tags: [Python, TDD]
----
+Title:  python-tests
+Date:   2018-10-26 10:54:37 +0200
+Category: Dev
+Tags: Python, TDD
+
 
 <https://docs.python-guide.org/writing/tests/>
 

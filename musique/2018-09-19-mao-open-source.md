@@ -1,10 +1,8 @@
----
-layout: post
-title:  MAO Open Source
-date:   2018-09-19 07:46:02 +0200
-category: MAO
-tags: [MAO, Open Source, Logiciels, Musique]
----
+Title:  MAO Open Source
+Date:   2018-09-19 07:46:02 +0200
+Category: MAO
+Tags: Open Source, Logiciels
+
 
 Player SFZ2
 

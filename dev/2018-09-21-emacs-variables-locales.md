@@ -1,10 +1,8 @@
----
-layout: post
-title:  "Emacs: Variables locales"
-date:   2018-09-21 08:56:48 +0200
-category: Emacs
-tags: [Emacs, Dev]
----
+Title:  "Emacs: Variables locales"
+Date:   2018-09-21 08:56:48 +0200
+Category: Dev
+Tags: Emacs
+
 
 <https://emacs.stackexchange.com/questions/24907/how-to-use-dir-locals-el-with-projectile>
 

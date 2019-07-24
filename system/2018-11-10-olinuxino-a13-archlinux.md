@@ -1,10 +1,8 @@
----
-layout: post
-title:  "Olinuxino: Installation d'une ArchLinux"
-date:   2018-11-10 00:02:32 +0100
-category: Dev
-tags: [Olinuxino]
----
+Title:  "Olinuxino: Installation d'une ArchLinux"
+Date:   2018-11-10 00:02:32 +0100
+Category: Système
+Tags: Olinuxino, Linux, ArchLinux
+
 
 <https://archlinuxarm.org/platforms/armv5/olinuxino>
 

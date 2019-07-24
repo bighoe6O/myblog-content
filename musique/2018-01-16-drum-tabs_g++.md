@@ -1,10 +1,8 @@
----
-layout: post
-title:  drum-tabs_g++
-date:   2018-01-16 23:36:03 +0100
-category: Dev
-tags: MAO, Dev
----
+Title:  drum-tabs_g++
+Date:   2018-01-16 23:36:03 +0100
+Category: Dev
+Tags: MAO, Dev, Rythmes
+
 
 ```
 make

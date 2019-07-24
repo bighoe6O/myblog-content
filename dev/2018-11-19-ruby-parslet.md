@@ -1,10 +1,8 @@
----
-layout: post
-title:  ruby-parslet
-date:   2018-11-19 13:34:58 +0100
-category: Dev
-tags: [Ruby]
----
+Title:  ruby-parslet
+Date:   2018-11-19 13:34:58 +0100
+Category: Dev
+Tags: Ruby
+
 
 <http://kschiess.github.io/parslet/>
 

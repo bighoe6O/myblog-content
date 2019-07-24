@@ -1,10 +1,8 @@
----
-layout: post
-title: Parsers compilateurs
-date:   2018-11-19 13:43:41 +0100
-category: Dev
-tags: [Python]
----
+Title: Parsers compilateurs
+Date:   2018-11-19 13:43:41 +0100
+Category: Dev
+Tags: Python
+
 
 <https://tomassetti.me/parsing-in-python/>
 

@@ -1,10 +1,8 @@
----
-layout: post
-title:  souris-logitech-m560
-date:   2018-10-29 21:11:49 +0100
-category: Système
-tags: [Matériel]
----
+Title:  souris-logitech-m560
+Date:   2018-10-29 21:11:49 +0100
+Category: Système
+Tags: Matériel
+
 
 <https://support.logitech.com/en_us/product/wireless-mouse-m560/specs>
 
