@@ -5,6 +5,8 @@ Slug: system/2019-07-24-powershell
 Category: Système
 Tags: Windows
 
+# Ajoût de PowerShell au menu contextuel windows
+
 <https://www.howtogeek.com/165268/how-to-add-open-powershell-here-to-the-context-menu-in-windows/>
 
 ```
@@ -26,3 +28,9 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\powershellmenu\command]
 @="C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe -NoExit -Command Set-Location -LiteralPath '%L'"
 ```
+
+# Profile
+
+    Test-Path $profile
+    False
+    New-Item -path $profile -type file –force

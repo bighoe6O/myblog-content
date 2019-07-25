@@ -1,15 +1,16 @@
 Title: Index de Système
 Date: 2019-07-24 12:29
 Status: published
+Slug: tag/system-index
 Category: Index
 Tags: Index
 
 # Index de Système
 
-* [PC](/tag/pc.html)
-* [Réseau](/tag/reseau.html)
-* [Linux](/tag/linux.html)
-* [Windows](/tag/windows.html)
-* [Emacs](/tag/emacs.html)
-* [Python](/tag/python.html)
-* [Ruby](/tag/ruby.html)
+* [PC](pc.html)
+* [Réseu](reseau.html)
+* [Linux](linux.html)
+* [Windows](windows.html)
+* [Emacs](emacs.html)
+* [Python](python.html)
+* [Ruby](ruby.html)
