@@ -1,6 +1,6 @@
 Title:  mysensors
 Date:   2018-09-23 21:16:35 +0200
-Tags: Projets, MQTT
+Tags: Projets
 
 
 [MySensors](https://www.mysensors.org/)

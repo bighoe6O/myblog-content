@@ -1,10 +1,6 @@
----
-layout: post
-title:  "Installation de Jekyll"
-date:   2017-12-20 00:17:13 +0100
-category: Dev
-tags: Jekyll
----
+Title:  "Installation de Jekyll"
+Date:   2017-12-20 00:17:13 +0100
+Tags: Jekyll
 
 # Options du fichier de configuration
 
@@ -49,3 +45,15 @@ e:
 cd e:/repo/myblog
 bundle exec jekyll serve
 ```
+
+# Admin
+
+https://github.com/jekyll/jekyll-admin
+
+Ajoût de la ligne suivante au fichier Gemfile
+
+`gem 'jekyll-admin', group: :jekyll_plugins`
+
+Installation du paquet
+
+`bundle install --path vendor/bundle`

@@ -1,7 +1,7 @@
 Title:  Changer la banque de sons midi par defaut sous windows
 Date:   2018-10-06 08:44:49 +0200
 Category: Musique
-Tags: MAO, Windows
+Tags: MAO, Midi, Windows
 
 
 <http://www.informatics-tech.com/how-to-make-midi-files-sound-better.html>

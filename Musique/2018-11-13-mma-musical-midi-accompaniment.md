@@ -1,7 +1,6 @@
 Title:  MMA (Musical Midi Accompaniment)
 Date:   2018-11-13 08:29:27 +0100
-Category: Musique
-Tags: Musique, MAO, Accompagnement
+Tags: MAO, Accompagnement, Midi
 
 
 <https://www.mellowood.ca/mma/>

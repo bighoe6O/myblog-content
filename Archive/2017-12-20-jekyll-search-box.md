@@ -1,10 +1,7 @@
----
-layout: post
-title:  Jekyll SearchBox
-date:   2017-12-20 12:54:13 +0100
-category: Dev
-tags: Jekyll
----
+Title:  Jekyll SearchBox
+Date:   2017-12-20 12:54:13 +0100
+Tags: Jekyll
+
 
 mercredi 20 décembre 2017, 12:55:33 (UTC+0100)
 

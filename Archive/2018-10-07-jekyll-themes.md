@@ -1,10 +1,7 @@
----
-layout: post
-title:  jekyll-themes
-date:   2018-10-07 08:49:31 +0200
-category: Dev
-tags: Jekyll
----
+Title:  jekyll-themes
+Date:   2018-10-07 08:49:31 +0200
+Tags: Jekyll
+
 
 # Choix d'un thème orienté développement
 

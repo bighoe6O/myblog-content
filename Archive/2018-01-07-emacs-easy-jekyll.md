@@ -1,10 +1,7 @@
----
-layout: post
-title:  "Emacs: easy-jekyll"
-category: Dev
-tags: Emacs, Jekyll
+Title:  "Emacs: easy-jekyll"
 Date:   2018-01-07 14:43:31 +0100
----
+Tags: Emacs, Jekyll
+
 
 # Installation du mode easy-jekyll
 

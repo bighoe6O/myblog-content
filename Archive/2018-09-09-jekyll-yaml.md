@@ -1,10 +1,7 @@
----
-layout: post
-title:  "Jekyll: YAML"
-date:   2018-09-09 07:04:49 +0200
-category: Dev
-tags: Jekyll, YAML
----
+Title:  "Jekyll: YAML"
+Date:   2018-09-09 07:04:49 +0200
+Tags: Jekyll
+
 
 [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial)
 

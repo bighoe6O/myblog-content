@@ -1,7 +1,7 @@
 Title:  webradios
 Date:   2018-12-07 09:57:37 +0100
 Category: Musique
-Tags: Musique, MPD
+Tags: MPD, Radios
 
 
 <http://fluxradios.blogspot.com/p/flux-radios-francaise.html>

@@ -1,7 +1,6 @@
 Title:  Galeries de photos
 Date:   2018-09-06 09:38:40 +0200
-Category: Dev
-Tags: Dev, Images
+Tags: Images
 
 
 # Comparatif de générateurs de sites statiques

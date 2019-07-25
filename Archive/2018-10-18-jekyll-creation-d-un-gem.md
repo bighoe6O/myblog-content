@@ -1,9 +1,6 @@
----
-layout: post
-title:  jekyl-creation-d-un-gem
-date:   2018-10-18 11:35:58 +0200
-category: Dev
-tags: Jekyll
+Title:  jekyl-creation-d-un-gem
+Date:   2018-10-18 11:35:58 +0200
+Tags: Ruby
 ---
 
 <https://guides.rubygems.org/make-your-own-gem/>

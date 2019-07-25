@@ -1,7 +1,7 @@
 Title:  "Olinuxino: Installation d'une ArchLinux"
 Date:   2018-11-10 00:02:32 +0100
 Category: Système
-Tags: Olinuxino, Linux, ArchLinux, MiniPC
+Tags: Olinuxino, Linux, MiniPC
 
 
 <https://archlinuxarm.org/platforms/armv5/olinuxino>
