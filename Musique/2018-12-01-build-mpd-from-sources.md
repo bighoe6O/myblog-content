@@ -1,6 +1,5 @@
 Title:  Build MPD from sources
 Date:   2018-12-01 11:44:54 +0100
-Category: Musique
 Tags: MPD, Players
 
 

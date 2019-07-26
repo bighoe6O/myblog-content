@@ -1,6 +1,5 @@
 Title: Parsers compilateurs
 Date:   2018-11-19 13:43:41 +0100
-Category: Dev
 Tags: Python
 
 

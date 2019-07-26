@@ -2,7 +2,6 @@ Title: Firmware
 Date: 2019-06-06 11:22
 Status: published
 Slug: RepRap/firmware
-Category: RepRap
 Tags: RepRap
 
 

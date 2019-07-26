@@ -1,6 +1,5 @@
-Title:  liseuse-kobo
+Title:  Liseuse Kobo
 Date:   2018-09-30 13:39:12 +0200
-Category: Divers
 Tags: Livres
 
 

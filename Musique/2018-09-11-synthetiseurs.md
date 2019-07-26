@@ -1,6 +1,5 @@
 Title:  Synthétiseurs
 Date:   2018-09-11 08:57:45 +0200
-Category: Musique
 Tags: Instruments, MAO
 
 

@@ -1,9 +1,6 @@
----
-layout: post
-title:  sites-de-presse
-date:   2018-10-21 02:04:27 +0200
-category: Divers
----
+Title:  sites-de-presse
+Date:   2018-10-21 02:04:27 +0200
+Tags: Livres
 
 <https://www.mediapart.fr/>
 

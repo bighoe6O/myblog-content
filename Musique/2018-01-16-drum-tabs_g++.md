@@ -1,8 +1,6 @@
 Title:  drum-tabs_g++
 Date:   2018-01-16 23:36:03 +0100
-Category: Dev
 Tags: MAO, Rythmes
-
 
 ```
 make

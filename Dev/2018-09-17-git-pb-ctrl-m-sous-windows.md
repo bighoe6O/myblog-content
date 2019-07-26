@@ -1,6 +1,5 @@
-Title:  git-pb-ctrl-m-sous-windows
+Title:  Git: pb ctrl-m sous Windows
 Date:   2018-09-17 18:45:23 +0200
-Category: Dev
 Tags: Git, Windows
 
 

@@ -1,6 +1,5 @@
 Title:  Bibliotheque musicale
 Date:   2018-12-02 23:00:45 +0100
-Category: Musique
 Tags: MPD, Players
 
 

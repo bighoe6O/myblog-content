@@ -1,6 +1,5 @@
 Title:  Jekyll Minitest
 Date:   2018-10-24 09:18:41 +0200
-Category: Dev
 Tags: Jekyll, TDD
 
 ## Liens

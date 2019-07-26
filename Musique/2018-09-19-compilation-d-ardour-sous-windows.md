@@ -1,6 +1,5 @@
 Title:  Compilation d'ardour sous Windows
 Date:   2018-09-19 21:19:55 +0200
-Category: Musique
 Tags: DAW, MAO
 
 

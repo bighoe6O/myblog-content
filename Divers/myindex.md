@@ -1,9 +1,7 @@
-Title: Index
-Slug: myindex
-Category: Index
+Title: My Index
 Date: 2019-05-24 21:56
 Modified: 2019-05-24 21:56
-
+Tags: MyIndex
 
 # Dev
 

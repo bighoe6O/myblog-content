@@ -1,6 +1,5 @@
-Title:  git-deplacement-repertoire-vers-submodule
+Title:  "git: Déplacement d'un répertoire vers un submodule"
 Date:   2018-09-11 21:05:46 +0200
-Category: Dev
 Tags: Git
 
 

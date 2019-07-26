@@ -1,6 +1,5 @@
 Title:  DAW sous Linux
 Date:   2018-09-18 16:24:34 +0200
-Category: Musique
 Tags: Linux, MAO, DAW
 
 

@@ -1,6 +1,5 @@
 Title:  "Emacs: Variables locales"
 Date:   2018-09-21 08:56:48 +0200
-Category: Dev
 Tags: Emacs
 
 

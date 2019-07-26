@@ -1,16 +1,15 @@
 Title:  sequencer-sur-raspberry-pi
 Date:   2018-11-01 07:07:35 +0100
-Category: Musique
 Tags: Pi, Midi, MAO, Séquenceur
 
 
-<http://www.midish.org/>
+[midish](http://www.midish.org/)
 
-<http://www.midish.org/manual.html>
+[manuel midish](http://www.midish.org/manual.html)
 
-<https://github.com/ahlstromcj/sequencer64>
+[sequencer64](https://github.com/ahlstromcj/sequencer64)
 
-<http://www.jackaudio.org/faq/netjack.html>
+[netjack](http://www.jackaudio.org/faq/netjack.html)
 
 <http://non.tuxfamily.org/>
 

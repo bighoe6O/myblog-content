@@ -1,7 +1,6 @@
 Title:  MAO Open Source
 Date:   2018-09-19 07:46:02 +0200
-Category: Musique
-Tags: OpenSource, Logiciels, MAO, DAW, Midi
+Tags: MAO, DAW, Midi
 
 
 [Player SFZ2](http://www.dskmusic.com/dsk-sf2-v2/)

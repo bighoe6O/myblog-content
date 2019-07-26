@@ -1,8 +1,7 @@
 Title:  EWI et Pure Data
 Date:   2018-09-14 22:38:16 +0200
-Category: Musique
 Tags: PureData, Instruments, EWI, MAO
----
+
 
 <https://forum.pdpatchrepo.info/topic/10554/noob-trying-to-create-a-midi-chorder-harmonizer/1>
 

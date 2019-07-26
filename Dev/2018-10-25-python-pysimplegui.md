@@ -1,6 +1,5 @@
 title:  python-pysimplegui
 date:   2018-10-25 05:49:54 +0200
-category: Dev
 Tags: Python, UI
 
 

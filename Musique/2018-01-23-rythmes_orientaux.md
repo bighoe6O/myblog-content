@@ -1,6 +1,5 @@
 Title:  Rythmes Orientaux
 Date:   2018-01-23 08:55:05 +0100
-Category: Musique
 Tags: Rythmes
 
 

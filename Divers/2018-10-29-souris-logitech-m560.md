@@ -1,6 +1,5 @@
-Title:  souris-logitech-m560
+Title:  Souris Logitech M560
 Date:   2018-10-29 21:11:49 +0100
-Category: Système
 Tags: Matériel
 
 

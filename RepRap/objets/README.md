@@ -1,7 +1,6 @@
 Title: Objets
 Date: 2019-06-06 09:26
 Status: published
-Category: RepRap
 Slug: reprap/objets/README
 Tags: RepRap, CAO
 

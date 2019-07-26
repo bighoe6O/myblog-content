@@ -1,6 +1,5 @@
-Title:  ruby-rmagick
+Title:  "ruby: rmagick"
 Date:   2018-10-10 19:46:46 +0200
-Category: Dev
 Tags: Ruby, Images
 
 

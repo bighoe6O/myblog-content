@@ -1,7 +1,5 @@
-layout: post
-title:  Logiciels pour la Reprap
+Title:  Logiciels pour la Reprap
 Slug: reprap/logiciels
-Category: Reprap
 Tags: Reprap, Logiciels
 Date:   2018-01-07 16:58:11 +0100
 

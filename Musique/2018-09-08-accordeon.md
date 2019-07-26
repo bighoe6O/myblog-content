@@ -1,6 +1,5 @@
 Title:  Accordéon
 Date:   2018-09-08 19:30:33 +0200
-Category: Musique
 Tags: Instruments
 
 
