@@ -33,3 +33,5 @@ Windows Registry Editor Version 5.00
     Test-Path $profile
     False
     New-Item -path $profile -type file –force
+
+[How to Change Windows PowerShell Color Scheme on Windows 10](https://beebom.com/how-change-powershell-color-scheme-windows-10/)

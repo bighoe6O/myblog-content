@@ -1,25 +1,26 @@
 Title: My Index
 Date: 2019-05-24 21:56
 Modified: 2019-05-24 21:56
+Slug: tag/divers-index
 Tags: MyIndex
 
 # Dev
 
-* [Emacs](/tag/emacs.html)
-* [Projets](/tag/projets.html)
-* [Android](/tag/android.html)
-* [S3](/tag/s3.html)
-* [Python](/tag/python.html)
+* [Emacs](emacs.html)
+* [Projets](projets.html)
+* [Android](android.html)
+* [S3](s3.html)
+* [Python](python.html)
 
 # Système
 
-* [Reseau](/tag/reseau.html)
-* [Système](/tag/systeme.html)
-* [Sécurité](/tag/securite.html)
+* [Reseau](reseau.html)
+* [Système](systeme.html)
+* [Sécurité](securite.html)
 
 # Musique
 
-* [Musique](/tag/musique.html)
-* [MAO](/tag/mao.html)
+* [Musique](musique.html)
+* [MAO](mao.html)
 
-* [Loisirs](/tag/loisirs.html)
+* [Loisirs](loisirs.html)
