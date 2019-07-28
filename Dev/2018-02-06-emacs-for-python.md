@@ -13,3 +13,9 @@ Tags: Emacs, Editeurs
 Fonctionne bien, fournit la complétion (M-/)
 
 <https://github.com/afroisalreadyinu/abl-mode>
+
+flycheck-pychekers
+
+    (global-flycheck-mode 1)
+    (with-eval-after-load 'flycheck
+    (add-hook 'flycheck-mode-hook #'flycheck-pycheckers-setup))

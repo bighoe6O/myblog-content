@@ -1,13 +1,15 @@
 Title:  Galeries de photos
 Date:   2018-09-06 09:38:40 +0200
-Tags: Images
+Modified: 2019-07-27 20:02:28 +0200
+Slug: divers/photo-galleries
+Tags: Images, Django, Jekyll
 
 
 # Comparatif de générateurs de sites statiques
 
 <https://www.staticgen.com/>
 
-# Django
+# [Django](../dev/django.html)
 
 <https://djangopackages.org/grids/g/gallery/>
 
