@@ -1,6 +1,6 @@
 Title: Git diff fichier texte vu comme binaire
 Date: 2019-07-28 13:32
-Status: draft
+Status: published
 Slug: 2019-07-28-git-diff-texte-vu-comme-binaire
 Tags: Git
 

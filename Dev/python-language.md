@@ -10,4 +10,11 @@ Language Python
 
 Lancer un sous processus
 
-<https://docs.python.org/3.5/library/subprocess.html#subprocess.run>
+[subprocess](https://docs.python.org/3.5/library/subprocess.html)
+
+
+[Powershell '>' operator, change encoding?](https://stackoverflow.com/questions/24771402/powershell-operator-change-encoding)
+
+PowerShell:
+
+    pip freeze | Out-File -Encoding UTF8 requirements.txt

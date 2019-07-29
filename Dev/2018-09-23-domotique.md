@@ -1,22 +1,20 @@
-Title:  mysensors
+Title:  MySensors
 Date:   2018-09-23 21:16:35 +0200
-Tags: Projets
+Updated: 2019-07-29 19:35:16 +0200
+Tags: Projets, Domotique
 
 
-[MySensors](https://www.mysensors.org/)
+# Liens
 
-[Mosquitto MQTT Broker](https://mosquitto.org/)
+* [MySensors](https://www.mysensors.org/)
+* [Mosquitto MQTT Broker](https://mosquitto.org/)
+* [Domoticz](https://domoticz.com/)
+* [Node-Red](https://nodered.org/)
 
-[Domoticz](https://domoticz.com/)
 
-[Node-Red](https://nodered.org/)
+# Carte SD du pi
 
-
-## Carte SD du pi
-
-Montage de l'image
-
-<https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device>
+[Montage de l'image](https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device)
 
 ```
 stephane@stephane-PC:/opt/sata/stephane$ fdisk -l pi-sd.img 
