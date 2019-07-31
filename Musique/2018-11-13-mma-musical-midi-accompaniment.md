@@ -1,6 +1,6 @@
 Title:  MMA (Musical Midi Accompaniment)
 Date:   2018-11-13 08:29:27 +0100
-Slug: musique/mma
+Slug: Musique/mma
 Tags: MAO, Accompagnement, Midi
 
 
