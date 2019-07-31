@@ -1,16 +1,13 @@
 Title:  Emacs for python
 Date:   2018-02-06 18:28:52 +0100
-Updated: 2019-07-29 19:20:20 +0200
+Modified: 2019-07-31 16:57:00 +0200
 Tags: Emacs, Editeurs
 
 
-<https://www.emacswiki.org/emacs/PythonProgrammingInEmacs>
-
-<https://github.com/gabrielelanaro/emacs-for-python>
-
-Fonctionne bien, fournit la complétion (M-/)
-
-<https://github.com/afroisalreadyinu/abl-mode>
+* [Python programming in Emacs](https://www.emacswiki.org/emacs/PythonProgrammingInEmacs)
+* [Emacs for Python](https://github.com/gabrielelanaro/emacs-for-python) Fonctionne bien, fournit la complétion (M-/)
+* [abl-mode](https://github.com/afroisalreadyinu/abl-mode)
+* [Elpy](https://github.com/jorgenschaefer/elpy)
 
 flycheck-pychekers
 
@@ -22,3 +19,7 @@ flycheck-pychekers
 
 * Tags fonctionnels
 * Checkers fonctionnels
+
+Problème:
+
+* [Elpy is not using python from my activated virtualenv](https://github.com/jorgenschaefer/elpy/issues/538)
