@@ -1,20 +1,18 @@
 Title: Firmware
 Date: 2019-06-06 11:22
 Status: published
-Slug: RepRap/firmware
 Tags: RepRap
 
 
+# Firmware
 
-## Firmware
-
-### Sprinter
+## Sprinter
 
 <http://forum.arduino.cc/index.php?topic=92364.0>
 
 <http://reprap.org/wiki/RepRapLinuxSoftware>
 
-### Marlin
+## Marlin
 
 <http://reprap.org/wiki/Marlin>
 

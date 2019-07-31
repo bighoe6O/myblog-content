@@ -1,11 +1,11 @@
 Title:  "Emacs: Variables locales"
 Date:   2018-09-21 08:56:48 +0200
+Edited: 2019-07-29 19:37:57 +0200
 Tags: Emacs
 
 
-<https://emacs.stackexchange.com/questions/24907/how-to-use-dir-locals-el-with-projectile>
-
-<https://www.gnu.org/software/emacs/manual/html_node/emacs/Directory-Variables.html>
+* [How to use dir locals el with projectile](https://emacs.stackexchange.com/questions/24907/how-to-use-dir-locals-el-with-projectile)
+* [Directory Variables](https://www.gnu.org/software/emacs/manual/html_node/emacs/Directory-Variables.html)
 
 ```
 ;; .dir-locals.el

@@ -1,7 +1,8 @@
-Title:  reprap-readme
+Title:  RepRap Mendel
 Date:   2018-01-07 16:55:10 +0100
 Tags: Readme, Mendel
 
+Imprimante 3D RepRap Mendel
 
 # [RepRap Mendel](http://reprap.org/wiki/Prusa_Mendel_%28iteration_2%29)
 

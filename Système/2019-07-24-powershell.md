@@ -35,3 +35,10 @@ Windows Registry Editor Version 5.00
     New-Item -path $profile -type file –force
 
 [How to Change Windows PowerShell Color Scheme on Windows 10](https://beebom.com/how-change-powershell-color-scheme-windows-10/)
+
+[Executing a command stored in a variable from PowerShell](https://stackoverflow.com/questions/3592851/executing-a-command-stored-in-a-variable-from-powershell)
+
+    $cmd = '& 7z.exe a -tzip "c:\temp\with space\test2.zip" "C:\TEMP\with space\changelog"'
+    Invoke-Expression $cmd
+
+[How can I write a PowerShell alias with arguments in the middle?](https://stackoverflow.com/questions/4166370/how-can-i-write-a-powershell-alias-with-arguments-in-the-middle)
