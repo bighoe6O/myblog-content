@@ -10,8 +10,11 @@ Entretiens avec Richard Galiano
 * [Galiano III (midi)](https://www.youtube.com/watch?v=kcWh5AVaEuk)
 * [Galiano IV (Bandoneon)](https://www.youtube.com/watch?v=Jzqt0JEFWVk)
 * [Galiano V (Accordina)](https://www.youtube.com/watch?v=1FsxBzoB0A0)
+* [Accordéonistes de Jazz](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Accord%C3%A9oniste_de_jazz)
 
-[Accordéonistes de Jazz](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Accord%C3%A9oniste_de_jazz)
+Concertina
+
+* [Fingering Charts for Concertinas](http://www.concertina.com/fingering/)
 
 Qobuz
 
@@ -29,16 +32,18 @@ Divers
 
 ## Technique
 
-[Accords complexes](https://www.partitions-accordeon.com/assets/courses/1348933938_10548.pdf)
-
-[LEFT HAND CHORD COMBINING ON THE 
+* [Accords complexes](https://www.partitions-accordeon.com/assets/courses/1348933938_10548.pdf)
+* [LEFT HAND CHORD COMBINING ON THE 
 ACCORDION](http://www.zisman.ca/squeezebox/Originals/Hans%20Palm's%20Accordion%20Page%20Chord%20combining.pdf)
-
-[Gipy Jazz](https://www.youtube.com/watch?v=nmOj0UTP2mM)
+* [Gipy Jazz](https://www.youtube.com/watch?v=nmOj0UTP2mM)
+* [Nydana's Accordion Resources](https://nydana.se/accordion.html)
 
 # FR1x
 
-Utilisation de kontakt
+* [Documentation]({static}../images/musique/FR-1x_f1.pdf)
+* [Stradella Chart]({static}../images/musique/accordionchart.pdf)
+
+## Utilisation de kontakt
 
 <https://www.youtube.com/watch?v=aWOxvCfUll4>
 
