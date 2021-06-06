@@ -15,6 +15,10 @@ Lancer un sous processus
 
 [Powershell '>' operator, change encoding?](https://stackoverflow.com/questions/24771402/powershell-operator-change-encoding)
 
+https://www.xspdf.com/resolution/53213676.html
+
+    $PSDefaultParameterValues['Out-File:Encoding'] = 'utf8'
+
 PowerShell:
 
     pip freeze | Out-File -Encoding UTF8 requirements.txt
