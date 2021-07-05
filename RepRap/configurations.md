@@ -1,7 +1,7 @@
 Title: Configuration RepRap
 Date: 2019-06-06 09:20
 Status: published
-Slug: RepRap/configurations/README
+Slug: tech-reprap-configurations
 Tags: RepRap
 
 

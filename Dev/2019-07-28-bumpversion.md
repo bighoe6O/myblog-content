@@ -1,7 +1,7 @@
 Title: Bumpversion
 Date: 2019-07-28 00:26
 Status: published
-Slug: Dev/2019-07-28-bumpversion
+Slug: tech-python-bumpversion
 Tags: Git, Python
 
 [bumpversion](https://github.com/peritus/bumpversion)

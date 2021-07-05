@@ -1,6 +1,6 @@
 Title:  Notation ABC
 Date:   2018-08-04 11:38:32 +0200
-Slug: musique/notation-abc
+Slug: musique-notation-abc
 Tags: MAO, ABC, Notation
 
 

@@ -1,8 +1,8 @@
 Title: Tables avec Pelican
 Date: 2019-07-27 14:46
 Status: published
-Slug: Dev/2019-07-27-tables-avec-pelican
-Tags: Pelican
+Slug: tech-python-pelican-tags
+Tags: pelican
 
 <https://github.com/getpelican/pelican-plugins>
 

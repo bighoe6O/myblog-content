@@ -1,6 +1,6 @@
 Title:  "Explorer: Menu Contextuel bash-here"
 Date:   2018-09-21 06:41:36 +0200
-Slug: system/explorer-menu-contextuel-bash-here
+Slug: system-explorer-menu-contextuel-bash-here
 Tags: Windows
 
 

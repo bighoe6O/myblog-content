@@ -1,6 +1,6 @@
 Title: Windows Subsystem for Linux
 Date: 2018-10-05 13:49:40 +0200
-Slug: system/windows-subsystem-for-linux
+Slug: system-windows-subsystem-for-linux
 Tags: Système
 
 

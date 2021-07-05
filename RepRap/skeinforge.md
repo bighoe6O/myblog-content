@@ -1,7 +1,7 @@
 Title: Skeinforge
 Date: 2019-06-06 11:59
 Status: published
-Slug: reprap/skeinforge
+Slug: tech-reprap-skeinforge
 Tags: Slicer, Logiciels, RepRap
 
 

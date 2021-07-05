@@ -1,7 +1,7 @@
 Title: PowerShell
 Date: 2019-07-24 09:20 +0200
 Status: published
-Slug: system/2019-07-24-powershell
+Slug: system-powershell
 Tags: Windows
 
 # Ajoût de PowerShell au menu contextuel windows

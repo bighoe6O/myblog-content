@@ -1,7 +1,7 @@
 Title: Index de Système
 Date: 2019-07-24 12:29
 Status: published
-Slug: tag/system-index
+Slug: tag-system-index
 Tags: MyIndex
 
 # Index de Système

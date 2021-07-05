@@ -1,7 +1,7 @@
 Title: RepRap Tags
 Date: 2019-07-27 08:03
 Status: published
-Slug: reprap/reprap-tags
+Slug: tech-reprap-tags
 Category: TagIndex
 Tags: FoldaRap, Mendel
 

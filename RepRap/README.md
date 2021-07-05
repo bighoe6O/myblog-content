@@ -1,7 +1,7 @@
 Title: RepRap
 Date: 2019-06-06 11:11
 Status: published
-Slug: RepRap/README
+Slug: tech-reprap
 Tags: RepRap
 
 

@@ -1,7 +1,7 @@
 Date: 2019-06-06 09:21
 Status: published
 Title: Logiciels 3D
-Slug: reprap/Logiciels_3D
+Slug: tech-reprap-logiciels-3d
 Tags: RepRap, Logiciels
 
 # Art of Illusion

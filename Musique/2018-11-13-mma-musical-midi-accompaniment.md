@@ -1,6 +1,6 @@
 Title:  MMA (Musical Midi Accompaniment)
 Date:   2018-11-13 08:29:27 +0100
-Slug: Musique/mma
+Slug: musique-mma
 Tags: MAO, Accompagnement, Midi
 
 
@@ -12,7 +12,7 @@ Tags: MAO, Accompagnement, Midi
 
 [abc2mma](https://welltemperedstudio.wordpress.com/code/abc2mma/)
 
-Convertit le format [ABC](abc.html) vers mma
+Convertit le format [ABC](notation-abc) vers mma
 
 Wrapper
 

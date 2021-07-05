@@ -1,7 +1,7 @@
 Title: My Index
 Date: 2019-05-24 21:56
 Modified: 2019-05-24 21:56
-Slug: tag/divers-index
+Slug: tag-divers-index
 Tags: MyIndex
 
 # Dev
