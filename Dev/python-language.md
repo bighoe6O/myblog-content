@@ -25,3 +25,7 @@ PowerShell:
 
 # YAML
 
+
+Installation de la version de python par défaut
+
+	sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
