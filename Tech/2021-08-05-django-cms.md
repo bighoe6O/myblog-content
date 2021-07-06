@@ -2,7 +2,7 @@ Title: Django CMS
 Date: 2021-05-08 07:34
 Status: published
 Slug: Dev/2021-08-05-django-cms
-Tags: django, python
+Tags: django, python, CMS
 
 # Images docker
 

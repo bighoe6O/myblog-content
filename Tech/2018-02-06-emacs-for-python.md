@@ -24,4 +24,6 @@ Problème:
 
 [Elpy is not using python from my activated virtualenv](https://github.com/jorgenschaefer/elpy/issues/538)
 
+## GTags
+
 [GTags for Python in Emacs](https://blade6570.github.io/soumyatripathy/blog_gnuglobal/gnu_global.html)

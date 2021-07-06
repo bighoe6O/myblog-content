@@ -1,7 +1,8 @@
-Title:  Linkchecker
+Title: Linkchecker
 Tags: Web
-Date:   2018-01-08 10:38:08 +0100
-
+Date: 2018-01-08 10:38:08 +0100
+Status: published
+Slug: web-linkchecker
 
 Utilitaire permettant de vérifier les liens sur un site
 
