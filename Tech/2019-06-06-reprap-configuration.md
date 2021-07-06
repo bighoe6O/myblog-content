@@ -3,7 +3,7 @@ Date: 2019-06-06 09:20
 Status: published
 Slug: tech-reprap-configurations
 Tags: RepRap
-
+Category: RepRap
 
 [[../]]
 

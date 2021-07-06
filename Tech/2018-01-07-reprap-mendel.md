@@ -2,6 +2,7 @@ Title:  RepRap Mendel
 Date:   2018-01-07 16:55:10 +0100
 Tags: RepRap
 Slug: tech-reprap-mendel
+Category: RepRap
 
 Imprimante 3D RepRap Mendel
 

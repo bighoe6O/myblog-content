@@ -3,7 +3,7 @@ Status: published
 Title: FoldaRap
 Slug: tech-reprap-foldarap
 Tags: RepRap
-
+Category: RepRap
 
 
 ![FoldaRap.jpg]({static}FoldaRap.jpg)

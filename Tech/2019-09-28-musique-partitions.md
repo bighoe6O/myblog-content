@@ -1,7 +1,7 @@
 Title: Partitions
 Date: 2019-09-28 00:58
 Status: published
-Slug: Dev/musique-partitions
+Slug: musique-partitions
 Tags: Musique, Projets
 Category: Projets
 
