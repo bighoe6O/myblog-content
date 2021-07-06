@@ -1,6 +1,6 @@
 Title:  Emacs for python
 Date:   2018-02-06 18:28:52 +0100
-Modified: 2019-07-31 16:57:00 +0200
+Modified: 2021-07-04 10:47
 Tags: Emacs, Editeurs
 
 
@@ -22,4 +22,6 @@ flycheck-pychekers
 
 Problème:
 
-* [Elpy is not using python from my activated virtualenv](https://github.com/jorgenschaefer/elpy/issues/538)
+[Elpy is not using python from my activated virtualenv](https://github.com/jorgenschaefer/elpy/issues/538)
+
+[GTags for Python in Emacs](https://blade6570.github.io/soumyatripathy/blog_gnuglobal/gnu_global.html)
