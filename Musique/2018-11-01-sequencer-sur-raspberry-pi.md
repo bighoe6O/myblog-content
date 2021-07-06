@@ -1,6 +1,6 @@
 Title:  sequencer-sur-raspberry-pi
 Date:   2018-11-01 07:07:35 +0100
-Tags: Pi, Midi, MAO, Séquenceur
+Tags: Pi, Midi, DAW
 
 
 [midish](http://www.midish.org/)

@@ -2,7 +2,7 @@ Title: Python
 Date: 2019-07-27 08:52
 Status: published
 Slug: tech-python
-Tags: Languages, Python, Pelican, Django
+Tags: Languages, Python
 
 Language Python
 

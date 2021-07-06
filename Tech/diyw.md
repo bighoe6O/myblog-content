@@ -2,7 +2,8 @@ Title: DiyW
 Date: 2021-07-05 18:10
 Status: published
 Slug: tech/diyw
-Tags: arduino, tech, dev
+Tags: arduino, Projets
+Category: Projets
 
 
 # DiyW

@@ -1,6 +1,6 @@
 Title:  jekyl-creation-d-un-gem
 Date:   2018-10-18 11:35:58 +0200
-Tags: Ruby
+Tags: Jekyll
 ---
 
 <https://guides.rubygems.org/make-your-own-gem/>

@@ -1,6 +1,7 @@
 Title:  Weather API
-Tags: Divers
+Tags: Projets
 Date:   2018-01-12 10:56:45 +0100
+Category: Projets
 
 
 <http://simpleweatherjs.com/>

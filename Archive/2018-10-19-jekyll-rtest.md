@@ -1,6 +1,6 @@
 Title:  Jekyll RTest
 Date:   2018-10-19 16:34:17 +0200
-Tags: Jekyll, TDD
+Tags: Jekyll
 
 
 ## Rspec

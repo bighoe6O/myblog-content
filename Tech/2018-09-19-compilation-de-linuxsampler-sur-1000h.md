@@ -1,6 +1,6 @@
 Title:  Compilation de Linuxsampler sur Asus 1000H
 Date:   2018-09-19 19:43:12 +0200
-Tags: MAO, Linux
+Tags: DAW, Linux
 
 
 <https://linuxsampler.org/debian.html>

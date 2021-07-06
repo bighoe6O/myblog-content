@@ -1,6 +1,8 @@
 Title:  raspberry-pi
 Date:   2018-09-21 20:38:33 +0200
+Slug: tech-pi
 Tags: Pi, MiniPC
+Category: MiniPC
 
 
 [Forcer un fsck au boot](https://raspberrypi.stackexchange.com/questions/61723/raspberry-pi-3-and-raspbian-jessie-how-to-run-fsck-at-boot)
@@ -16,12 +18,11 @@ Tags: Pi, MiniPC
 	~/rpi-kernel$ export INSTALL_MOD_PATH=~/rpi-kernel/rt-kernel
 	~/rpi-kernel$ export INSTALL_DTBS_PATH=~/rpi-kernel/rt-kernel
 
-export ARCH=arm
-export CROSS_COMPILE=~/rpi-kernel/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian/bin/arm-linux-gnueabihf-
-export INSTALL_MOD_PATH=~/rpi-kernel/rt-kernel
-export INSTALL_DTBS_PATH=~/rpi-kernel/rt-kernel
-export CROSS_COMPILE=~/rpi-kernel/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf-
-
+	export ARCH=arm
+	export CROSS_COMPILE=~/rpi-kernel/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian/bin/arm-linux-gnueabihf-
+	export INSTALL_MOD_PATH=~/rpi-kernel/rt-kernel
+	export INSTALL_DTBS_PATH=~/rpi-kernel/rt-kernel
+	export CROSS_COMPILE=~/rpi-kernel/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf-
 
 
 Rasbperry Pi 1/1.2 B(+), A(+), Zero (W):

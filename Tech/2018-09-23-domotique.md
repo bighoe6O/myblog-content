@@ -1,8 +1,9 @@
-Title:  MySensors
+Title: Domotique
 Date:   2018-09-23 21:16:35 +0200
 Updated: 2019-07-29 19:35:16 +0200
-Tags: Projets, Domotique
+Tags: Projets, Domotique, pi
 Slug: tech-domotique
+Category: Projets
 
 
 # Liens

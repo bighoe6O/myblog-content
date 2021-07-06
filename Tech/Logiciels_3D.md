@@ -2,7 +2,9 @@ Date: 2019-06-06 09:21
 Status: published
 Title: Logiciels 3D
 Slug: tech-reprap-logiciels-3d
-Tags: RepRap, Logiciels
+Tags: RepRap, RepRap
+Category: RepRap
+
 
 # Art of Illusion
 
@@ -32,3 +34,9 @@ Note: Obsolète, j'utilise OpenSCAD
     sudo apt-get install openscad
 
 <http://www.openscad.org/downloads.html>
+
+# objets
+
+hollow10.stl: cube de 10x10 pour le calibrage
+
+RaspberryPi_v15.scad: http://www.thingiverse.com/thing:16104/#files
