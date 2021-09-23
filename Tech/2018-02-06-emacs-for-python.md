@@ -9,11 +9,42 @@ Tags: Emacs, Editeurs
 * [abl-mode](https://github.com/afroisalreadyinu/abl-mode)
 * [Elpy](https://github.com/jorgenschaefer/elpy)
 
-flycheck-pychekers
+
+# flycheck-pychekers
 
     (global-flycheck-mode 1)
     (with-eval-after-load 'flycheck
     (add-hook 'flycheck-mode-hook #'flycheck-pycheckers-setup))
+
+Filtrer les messages
+
+## Mypy
+
+    pip install mypy
+
+configuration: 
+
+    # ~/.config/mypy/config
+    [mypy]
+    ignore_missing_imports = True
+
+## Pylint
+
+Générer .pylinrc pour le projet:
+
+    pylint --generate-rcfile > .pylintrc
+
+Dans .pylintrc du projet modifier init-hook:
+
+    init-hook='import sys; sys.path.append("/home/stephane/.local/share/virtualenvs/pypass--rJIKvrW/lib/python3.9/site-packages*")'
+
+.pylintrc utilisateur
+
+    # ~/.pylintrc
+    [MESSAGES CONTROL]
+    disable=too-many-ancestors
+    disable=missing-function-docstring
+
 
 # [Elpy](https://github.com/jorgenschaefer/elpy)
 
