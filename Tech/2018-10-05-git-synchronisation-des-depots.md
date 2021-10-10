@@ -3,6 +3,7 @@ Date:   2018-10-05 23:05:20 +0200
 Tags: Git
 Slug: tech-git-repo-sync
 Category: Dev
+Modified: 2021-10-10 08:36
 
     ~git/bin/git-push-pi0.sh
 
@@ -46,4 +47,16 @@ task :mirror do
     end
   end
 end
+```
+
+```python
+import os
+import subprocess
+
+host='stephane-lenovo.local'
+
+os.chdir('~/repositories')
+dirs = os.listdir()
+for dir in dirs:
+    subprocess.run(['git', '-C', mydir, 'push', '--mirror', 'git@{}:{}'.format(host, mydir)], capture_output=True)
 ```
