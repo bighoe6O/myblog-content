@@ -5,3 +5,6 @@ Slug: tech-less
 Tags: Shell, Linux
 
 <https://gilesorr.com/blog/pygmentize-less-update.html>
+
+	# ~/.zshrc
+	export LESSOPEN="| pygmentize -g -f terminal %s"

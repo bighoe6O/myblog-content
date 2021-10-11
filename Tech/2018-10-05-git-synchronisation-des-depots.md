@@ -2,14 +2,14 @@ Title:  Synchronisation des depots Git
 Date:   2018-10-05 23:05:20 +0200
 Tags: Git
 Slug: tech-git-repo-sync
-Category: Dev
-Modified: 2021-10-10 08:36
+Category: Tech
 
-    ~git/bin/git-push-pi0.sh
+
 
 
 ```bash
 #!/bin/bash
+# ~git/bin/git-push-pi0.sh
 
 pushd ~/repositories
 #prefix=scans
@@ -50,6 +50,7 @@ end
 ```
 
 ```python
+# git-mirror.py
 import os
 import subprocess
 

@@ -1,6 +1,6 @@
 Title:  python-morse
 Date:   2018-09-21 14:56:27 +0200
-Tags: oPython, Projets
+Tags: Python, Projets
 Category: Projets
 
 
