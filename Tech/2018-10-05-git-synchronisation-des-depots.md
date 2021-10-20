@@ -60,4 +60,18 @@ os.chdir('~/repositories')
 dirs = os.listdir()
 for dir in dirs:
     subprocess.run(['git', '-C', mydir, 'push', '--mirror', 'git@{}:{}'.format(host, mydir)], capture_output=True)
+
+
+Script d'ajout des répertoires manquants à la configuration
+```python
+
+with open('liste-todo.txt', 'r') as f:
+    myrights = '''repo {prjname}
+    RW+ = @priv
+'''
+    
+    lines = f.readlines()
+    lines = [l.replace('\n','').replace('.git', '') for l in lines]
+    for line in lines:
+        print(myrights.format(prjname=line))
 ```
