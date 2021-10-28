@@ -40,7 +40,6 @@ ACCORDION](http://www.zisman.ca/squeezebox/Originals/Hans%20Palm's%20Accordion%2
 
 # FR1x
 
-* [Documentation]({static}../images/musique/FR-1x_f1.pdf)
 * [Stradella Chart]({static}../images/musique/accordionchart.pdf)
 
 ## Utilisation de kontakt

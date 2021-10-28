@@ -6,7 +6,7 @@ Tags: RepRap
 Category: RepRap
 
 
-![FoldaRap.jpg]({static}FoldaRap.jpg)
+![FoldaRap.jpg]({static}../images/FoldaRap.jpg)
 
 <https://reprap.org/wiki/FoldaRap>
 
