@@ -4,7 +4,7 @@ Slug: musique-mma
 Tags: DAW, Accompagnement, Midi
 
 
-# [MMA](https://www.mellowood.ca/mma/)
+# [MMA](https://musicalmidiaccompaniment.blogspot.com/)
 
 [Documentation](https://www.mellowood.ca/mma/online-docs/mma.html)
 
