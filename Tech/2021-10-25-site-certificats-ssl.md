@@ -3,6 +3,7 @@ Date: 2021-10-25 19:44
 Status: published
 Slug: Tech/2021-10-25-site-certificats-ssl
 Tags: Site, Blog
+Category: Système
 
 <https://certbot.eff.org/lets-encrypt/debianstretch-apache>
 

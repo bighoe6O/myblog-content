@@ -1,6 +1,7 @@
 Title:  "git: Déplacement d'un répertoire vers un submodule"
 Date:   2018-09-11 21:05:46 +0200
 Tags: Git
+Category: Développement
 
 
 Solution utilisée:

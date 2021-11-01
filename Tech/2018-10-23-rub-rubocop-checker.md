@@ -1,6 +1,7 @@
 Title:  rub-rubocop-checker
 Date:   2018-10-23 09:36:31 +0200
 Tags: Ruby
+Category: Développement
 
 
 [GitHub](https://github.com/rubocop-hq/rubocop/blob/master/config/default.yml)

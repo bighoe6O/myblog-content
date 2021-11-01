@@ -2,10 +2,7 @@ Title:  Synchronisation des depots Git
 Date:   2018-10-05 23:05:20 +0200
 Tags: Git
 Slug: tech-git-repo-sync
-Category: Tech
-
-
-
+Category: Développement
 
 ```bash
 #!/bin/bash

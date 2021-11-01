@@ -2,6 +2,7 @@ Title:  Emacs for python
 Date:   2018-02-06 18:28:52 +0100
 Modified: 2021-07-04 10:47
 Tags: Emacs, Editeurs
+Category: Développement
 
 
 * [Python programming in Emacs](https://www.emacswiki.org/emacs/PythonProgrammingInEmacs)

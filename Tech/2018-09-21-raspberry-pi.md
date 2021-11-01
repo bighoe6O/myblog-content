@@ -2,7 +2,7 @@ Title:  raspberry-pi
 Date:   2018-09-21 20:38:33 +0200
 Slug: tech-pi
 Tags: Pi, MiniPC
-Category: MiniPC
+Category: Système
 
 
 [Forcer un fsck au boot](https://raspberrypi.stackexchange.com/questions/61723/raspberry-pi-3-and-raspbian-jessie-how-to-run-fsck-at-boot)

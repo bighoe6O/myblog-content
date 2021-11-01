@@ -3,6 +3,7 @@ Date: 2021-09-29 16:41
 Status: published
 Slug: python-gtk
 Tags: Dev, Python, Gtk
+Category: Développement
 
 ## Prérequis
 

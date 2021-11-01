@@ -3,6 +3,7 @@ Date: 2021-10-10 10:35
 Status: published
 Slug: Tech/2021-10-10-hadoop-ecosystem
 Tags: Dev, Hadoop
+Category: Développement
 
 
 # Ecosystème Hadoop

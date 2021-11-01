@@ -1,7 +1,7 @@
 Title:  Image Magick
 Tags: Outils, Images
 Date:   2018-01-22 09:56:34 +0100
-
+Category: Graphisme
 
 # Conversion de multiples jpg vers un pdf
 
