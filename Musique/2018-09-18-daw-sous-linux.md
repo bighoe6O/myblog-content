@@ -1,6 +1,6 @@
 Title:  DAW sous Linux
 Date:   2018-09-18 16:24:34 +0200
-Tags: Linux, MAO, DAW
+Tags: Linux, DAW
 
 
 ## Synthétiseur midi

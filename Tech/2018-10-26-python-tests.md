@@ -1,6 +1,6 @@
 Title:  python-tests
 Date:   2018-10-26 10:54:37 +0200
-Tags: Python, TDD
+Tags: Python
 
 
 <https://docs.python-guide.org/writing/tests/>

@@ -1,5 +1,5 @@
 Title:  Image Magick
-Tags: Outils, Images
+Tags: Images
 Date:   2018-01-22 09:56:34 +0100
 Category: Graphisme
 

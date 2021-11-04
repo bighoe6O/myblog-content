@@ -2,7 +2,7 @@ Date: 2019-06-06 09:21
 Status: published
 Title: Logiciels 3D
 Slug: tech-reprap-logiciels-3d
-Tags: RepRap, RepRap
+Tags: RepRap
 Category: RepRap
 
 

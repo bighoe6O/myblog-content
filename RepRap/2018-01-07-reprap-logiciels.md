@@ -1,6 +1,6 @@
 Title:  Logiciels pour la Reprap
 Slug: tech-reprap-logiciels
-Tags: Reprap, Logiciels
+Tags: Reprap
 Date:   2018-01-07 16:58:11 +0100
 
 ## Logiciels

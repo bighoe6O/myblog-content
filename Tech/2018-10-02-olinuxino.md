@@ -1,7 +1,7 @@
 Title:  olinuxino
 Date:   2018-10-02 16:55:28 +0200
 Updated: 2018-11-09 11:11:01 +0100
-Tags: Olinuxino, MiniPC
+Tags: MiniPC
 Slug: tech-olinuxino
 Category: Système
 

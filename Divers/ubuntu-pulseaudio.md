@@ -2,7 +2,7 @@ Title: Pulse Audio
 Date: 2019-06-06 10:15
 Status: published
 Slug: system-ubuntu-pulseaudio
-Tags: Linux, Audio
+Tags: Linux
 Category: Système
 
 Problème: Dans la console de mixage apparait seulement la sortie HDMI

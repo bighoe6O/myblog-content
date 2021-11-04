@@ -1,6 +1,6 @@
 Title:  libreelect
 Date:   2018-11-02 10:12:13 +0100
-Tags: Pi, MediaCenter
+Tags: Pi
 Category: Système
 
 [Librelec](https://libreelec.tv/)
