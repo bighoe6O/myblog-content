@@ -1,5 +1,5 @@
-Title:  "ruby: rmagick"
-Date:   2018-10-10 19:46:46 +0200
+Title: ruby: rmagick
+Date: 2018-10-10 19:46:46 +0200
 Tags: Ruby, Images
 Category: Développement
 

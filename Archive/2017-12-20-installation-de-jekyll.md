@@ -1,4 +1,4 @@
-Title:  "Installation de Jekyll"
+Title: Installation de Jekyll
 Date:   2017-12-20 00:17:13 +0100
 Tags: Jekyll
 

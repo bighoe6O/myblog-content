@@ -1,5 +1,5 @@
-Title:  "Emacs: Variables locales"
-Date:   2018-09-21 08:56:48 +0200
+Title: Emacs: Variables locales
+Date: 2018-09-21 08:56:48 +0200
 Edited: 2019-07-29 19:37:57 +0200
 Tags: Emacs
 Category: Développement

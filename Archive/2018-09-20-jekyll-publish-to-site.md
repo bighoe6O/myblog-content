@@ -1,5 +1,5 @@
-Title:  "Jekyll: Publish to site"
-Date:   2018-09-20 14:33:42 +0200
+Title: Jekyll: Publish to site
+Date: 2018-09-20 14:33:42 +0200
 Tags: Jekyll, Git
 
 

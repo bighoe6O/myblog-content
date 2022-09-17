@@ -3,6 +3,10 @@ Tags: Images
 Date:   2018-01-22 09:56:34 +0100
 Category: Graphisme
 
+# Resize image
+
+	magick .\raspberry-pi-pico.jpg -resize 50%x50% .\raspberry-pi-pico-sm.jpg
+
 # Conversion de multiples jpg vers un pdf
 
 	convert *.jpg foo.pdf

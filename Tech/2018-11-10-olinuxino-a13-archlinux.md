@@ -1,4 +1,4 @@
-Title:  "Olinuxino: Installation d'une ArchLinux"
+Title: Olinuxino: Installation d'une ArchLinux
 Date:   2018-11-10 00:02:32 +0100
 Tags: Olinuxino, Linux, MiniPC
 

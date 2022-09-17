@@ -1,5 +1,5 @@
-Title:  "Jekyll: YAML"
-Date:   2018-09-09 07:04:49 +0200
+Title: Jekyll: YAML
+Date: 2018-09-09 07:04:49 +0200
 Tags: Jekyll
 
 

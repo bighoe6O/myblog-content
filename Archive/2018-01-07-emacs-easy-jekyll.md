@@ -1,4 +1,4 @@
-Title:  "Emacs: easy-jekyll"
+Title: Emacs: easy-jekyll
 Date:   2018-01-07 14:43:31 +0100
 Tags: Emacs, Jekyll
 
